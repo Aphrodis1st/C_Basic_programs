@@ -1,3 +1,6 @@
+Make sure to go throught the source code in the directory and for any questions, reachout to me on social media.
+Remember this is simple C programs but more usefull.
+
 	1. We have a program that asks and checks for a pin. It uses a while loop.
 
 		Asks a user to type and enter a pin three times 
@@ -8,6 +11,12 @@
 
 		It asks to enter number of books and calculates the dozens of books at that time.
 		The program is compiled with gcc and provide output called d.  
+
+
+	3. A program for ASCII values
+
+		It will ask you for any character and will return an ASCII value of that character.
+		And when you input an integer it will return ASCII value of that integer.
 
 remember to get me in touch here:
 
